@@ -12,7 +12,7 @@
   
 ---
 - 🔭 I’m currently working as a Data Scientist at Humana.
-- 🌱 I’m currently learning data engineering and advance machine learning engineering 
+- 🌱 Interested in data engineering and advanced machine learning engineering
 - 🧑‍🤝‍🧑 Looking to collaborate on hackathons, data science projects and technical writing
 - 💬 Ask me about transitioning into Data Science
 - 📫 How to reach [me](https://www.buymeacoffee.com/samboamaza)
